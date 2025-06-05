@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderId>1001</OrderId>
+  <OrderDate>2025-06-05T18:54:59.4430348+03:00</OrderDate>
+  <Items>
+    <OrderItem>
+      <ProductName>Хліб</ProductName>
+      <Quantity>2</Quantity>
+    </OrderItem>
+    <OrderItem>
+      <ProductName>Молоко</ProductName>
+      <Quantity>1</Quantity>
+    </OrderItem>
+    <OrderItem>
+      <ProductName>Сир</ProductName>
+      <Quantity>3</Quantity>
+    </OrderItem>
+  </Items>
+</Order>

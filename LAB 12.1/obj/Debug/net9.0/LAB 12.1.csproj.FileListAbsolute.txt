@@ -1,0 +1,28 @@
+d:\C#\LAB 12.1\bin\Debug\net9.0\appsettings.Development.json
+d:\C#\LAB 12.1\bin\Debug\net9.0\appsettings.json
+d:\C#\LAB 12.1\bin\Debug\net9.0\LAB 12.1.staticwebassets.endpoints.json
+d:\C#\LAB 12.1\bin\Debug\net9.0\LAB 12.1.exe
+d:\C#\LAB 12.1\bin\Debug\net9.0\LAB 12.1.deps.json
+d:\C#\LAB 12.1\bin\Debug\net9.0\LAB 12.1.runtimeconfig.json
+d:\C#\LAB 12.1\bin\Debug\net9.0\LAB 12.1.dll
+d:\C#\LAB 12.1\bin\Debug\net9.0\LAB 12.1.pdb
+d:\C#\LAB 12.1\obj\Debug\net9.0\LAB 12.1.GeneratedMSBuildEditorConfig.editorconfig
+d:\C#\LAB 12.1\obj\Debug\net9.0\LAB 12.1.AssemblyInfoInputs.cache
+d:\C#\LAB 12.1\obj\Debug\net9.0\LAB 12.1.AssemblyInfo.cs
+d:\C#\LAB 12.1\obj\Debug\net9.0\LAB 12.1.csproj.CoreCompileInputs.cache
+d:\C#\LAB 12.1\obj\Debug\net9.0\LAB 12.1.MvcApplicationPartsAssemblyInfo.cache
+d:\C#\LAB 12.1\obj\Debug\net9.0\scopedcss\bundle\LAB 12.1.styles.css
+d:\C#\LAB 12.1\obj\Debug\net9.0\staticwebassets.build.json
+d:\C#\LAB 12.1\obj\Debug\net9.0\staticwebassets.development.json
+d:\C#\LAB 12.1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+d:\C#\LAB 12.1\obj\Debug\net9.0\staticwebassets\msbuild.LAB 12.1.Microsoft.AspNetCore.StaticWebAssets.props
+d:\C#\LAB 12.1\obj\Debug\net9.0\staticwebassets\msbuild.LAB 12.1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+d:\C#\LAB 12.1\obj\Debug\net9.0\staticwebassets\msbuild.build.LAB 12.1.props
+d:\C#\LAB 12.1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LAB 12.1.props
+d:\C#\LAB 12.1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LAB 12.1.props
+d:\C#\LAB 12.1\obj\Debug\net9.0\staticwebassets.pack.json
+d:\C#\LAB 12.1\obj\Debug\net9.0\LAB 12.1.dll
+d:\C#\LAB 12.1\obj\Debug\net9.0\refint\LAB 12.1.dll
+d:\C#\LAB 12.1\obj\Debug\net9.0\LAB 12.1.pdb
+d:\C#\LAB 12.1\obj\Debug\net9.0\LAB 12.1.genruntimeconfig.cache
+d:\C#\LAB 12.1\obj\Debug\net9.0\ref\LAB 12.1.dll
