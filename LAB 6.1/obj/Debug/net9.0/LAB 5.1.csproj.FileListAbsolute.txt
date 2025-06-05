@@ -1,0 +1,28 @@
+D:\C#\LAB 5.1\bin\Debug\net9.0\appsettings.Development.json
+D:\C#\LAB 5.1\bin\Debug\net9.0\appsettings.json
+D:\C#\LAB 5.1\bin\Debug\net9.0\LAB 5.1.staticwebassets.endpoints.json
+D:\C#\LAB 5.1\bin\Debug\net9.0\LAB 5.1.exe
+D:\C#\LAB 5.1\bin\Debug\net9.0\LAB 5.1.deps.json
+D:\C#\LAB 5.1\bin\Debug\net9.0\LAB 5.1.runtimeconfig.json
+D:\C#\LAB 5.1\bin\Debug\net9.0\LAB 5.1.dll
+D:\C#\LAB 5.1\bin\Debug\net9.0\LAB 5.1.pdb
+D:\C#\LAB 5.1\obj\Debug\net9.0\LAB 5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LAB 5.1\obj\Debug\net9.0\LAB 5.1.AssemblyInfoInputs.cache
+D:\C#\LAB 5.1\obj\Debug\net9.0\LAB 5.1.AssemblyInfo.cs
+D:\C#\LAB 5.1\obj\Debug\net9.0\LAB 5.1.csproj.CoreCompileInputs.cache
+D:\C#\LAB 5.1\obj\Debug\net9.0\LAB 5.1.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\LAB 5.1\obj\Debug\net9.0\scopedcss\bundle\LAB 5.1.styles.css
+D:\C#\LAB 5.1\obj\Debug\net9.0\staticwebassets.build.json
+D:\C#\LAB 5.1\obj\Debug\net9.0\staticwebassets.development.json
+D:\C#\LAB 5.1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\C#\LAB 5.1\obj\Debug\net9.0\staticwebassets\msbuild.LAB 5.1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\LAB 5.1\obj\Debug\net9.0\staticwebassets\msbuild.LAB 5.1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\C#\LAB 5.1\obj\Debug\net9.0\staticwebassets\msbuild.build.LAB 5.1.props
+D:\C#\LAB 5.1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LAB 5.1.props
+D:\C#\LAB 5.1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LAB 5.1.props
+D:\C#\LAB 5.1\obj\Debug\net9.0\staticwebassets.pack.json
+D:\C#\LAB 5.1\obj\Debug\net9.0\LAB 5.1.dll
+D:\C#\LAB 5.1\obj\Debug\net9.0\refint\LAB 5.1.dll
+D:\C#\LAB 5.1\obj\Debug\net9.0\LAB 5.1.pdb
+D:\C#\LAB 5.1\obj\Debug\net9.0\LAB 5.1.genruntimeconfig.cache
+D:\C#\LAB 5.1\obj\Debug\net9.0\ref\LAB 5.1.dll
